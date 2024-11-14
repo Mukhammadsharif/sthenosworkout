@@ -114,15 +114,15 @@ const styles = StyleSheet.create({
   name: {
     textAlign: 'center',
     fontFamily: FONTS.bold,
-    fontSize: 18,
+    fontSize: 16,
     paddingHorizontal: 20,
   },
   description: {
     textAlign: 'center',
     fontFamily: FONTS.regular,
-    fontSize: 14,
+    fontSize: 12,
     paddingHorizontal: 10,
-    marginTop: 10,
+    marginTop: 5,
   },
   row: {
     flexDirection: 'row',
